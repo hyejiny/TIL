@@ -375,6 +375,8 @@ num=2020
 | a or b  | a 와 b 모두 False시만 False  |
 | not a   | True -> False, False -> True |
 
+* `false` = 0, 0.0, (), [], {}, '', None
+
 ```python
 'a' and 'b'  #b
 'a' or 'b'  #a
